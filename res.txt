@@ -1,0 +1,4 @@
+res.txt
+
+http://www.cs.utoronto.ca/~cvs/minesweeper/minesweeper.pdf
+http://joshscotland.com/thrill-digger-assistant/
