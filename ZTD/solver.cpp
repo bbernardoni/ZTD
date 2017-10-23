@@ -141,7 +141,7 @@ void solver::solve(){
 		for(unsigned char j=0; j<cons8spacesV.size(); ++j){
 			spacesForSubset[subsetIndex][j] = cons8spacesV.at(j);
 		}
-		spacesForSubset[subsetIndex][39] = cons8spacesV.size();
+		spacesForSubset[subsetIndex][39] = (unsigned char)cons8spacesV.size();
 		subsetIndex++;
 	}
 	// remove invalid solution sets
